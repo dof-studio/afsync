@@ -1,16 +1,23 @@
 
 
-# What is 'afsync'
+# 01.What is 'afsync'
 
 
-# The aim and story behind 'afsync'
+# 02.Key features
 
 
-# License and Permissions
+# 03.The aim and story behind 'afsync'
 
 
-# Open-source and distributions
+# 04.How to use the command line system
 
 
-# Contact the developer
+# 05.Open-source and distributions
+
+
+# 06.License and Permissions
+
+
+# 07.Contact the developer
+
 
