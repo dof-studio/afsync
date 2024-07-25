@@ -15,7 +15,7 @@
 # 05.Open-source and distributions
 
 
-# 06.License and Permissions
+# 06.License and permissions
 
 
 # 07.Contact the developer
