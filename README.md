@@ -1,4 +1,4 @@
-
+# DO NOT ASK WHY I DEVELOPED THIS ... (\tear)
 
 # 01.What is 'afsync'
 
